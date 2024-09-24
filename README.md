@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yash-cmnd
 - 👀 I’m interested in AI and Robotics
-- 🌱 I’m currently joining my B.tech 1st year in Data Science
+- 🌱 I’m currently doing my B.tech 1st year in Data Science
 - 💞️ I’m looking to collaborate on projects related to AI , DS and Robotics
 - 📫 How to reach me : yash.educate939@gmail.com
 
